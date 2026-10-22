@@ -1,0 +1,1 @@
+Théorème d'inversion locale
